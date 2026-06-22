@@ -176,7 +176,7 @@ Annotation 颜色含义：
 
 ![标记 Done](docs/images/11-mark-done.png)
 
-## 推荐标注流程
+## 标注流程
 
 1. 选择数据集 `Root`。
 2. 使用 `Done` 筛选到 `Not Done`。
@@ -190,19 +190,4 @@ Annotation 颜色含义：
 10. 点击 `Mark Done` 标记完成。
 11. 点击 `Next Not Done` 继续下一个例次。
 
-## 建议截图清单
-
-请将软件截图放到 `docs/images/` 目录，并使用以下文件名。README 中的图片链接会自动引用这些文件。
-
-- `01-dataset.png`：数据集表格加载完成后的整体界面。
-- `02-module-entry.png`：在 Slicer 中打开 DetectionViewer 模块。
-- `03-load-dataset.png`：选择 Root 并完成扫描后的界面。
-- `04-view-tab.png`：View 页签控件。
-- `05-selected-detection.png`：红色高亮 detection 出现在平面视图和 3D 视图中。
-- `06-copy-to-annotation.png`：选中 detection 并点击 `Copy to Annotation`。
-- `07-annotation-tab.png`：Annotation 页签控件。
-- `08-edit-handles.png`：紫色 annotation 显示编辑句柄。
-- `09-add-annotation.png`：通过 `Add` 新增空 annotation。
-- `10-save.png`：点击 `Save` 或覆盖确认弹窗。
-- `11-mark-done.png`：例次被标记为 Done 后的表格状态。
 
