@@ -4,11 +4,11 @@ project(DetectionViewer)
 
 #-----------------------------------------------------------------------------
 # Extension meta-information
-set(EXTENSION_HOMEPAGE "https://www.slicer.org/wiki/Documentation/Nightly/Extensions/DetectionViewer")
-set(EXTENSION_CONTRIBUTORS "John Doe (AnyWare Corp.)")
-set(EXTENSION_DESCRIPTION "This is an example of a simple extension")
-set(EXTENSION_ICONURL "https://www.example.com/Slicer/Extensions/DetectionViewer.png")
-set(EXTENSION_SCREENSHOTURLS "https://www.example.com/Slicer/Extensions/DetectionViewer/Screenshots/1.png")
+set(EXTENSION_HOMEPAGE "https://github.com/Stya-hr/DetectionViewer")
+set(EXTENSION_CONTRIBUTORS "Huang Rui, Codex")
+set(EXTENSION_DESCRIPTION "A Slicer extension to view and edit detection dataset")
+set(EXTENSION_ICONURL "https://raw.githubusercontent.com/Stya-hr/DetectionViewer/refs/heads/main/DetectionViewer.png")
+set(EXTENSION_SCREENSHOTURLS "https://raw.githubusercontent.com/Stya-hr/DetectionViewer/refs/heads/main/docs/figs/screenshot.png")
 set(EXTENSION_DEPENDS "NA") # Specified as a list or "NA" if no dependencies
 
 #-----------------------------------------------------------------------------
